@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kennyweichen
-- 👀 I’m interested in statistics, public health, and data science.
-- 🌱 I’m currently pursuing a Master's in biostatistics at Harvard Chan! 
-- 💞️ I’m looking to collaborate on any project where I can get my hands messy with data.
+- 🫡  Hi, I’m @kennyweichen
+- 👨🏻‍🏫 I’m interested in statistics, public health, and data science.
+- 📚 I’m currently pursuing a Master's in biostatistics at Harvard Chan! 
+- 🏋🏻‍♂️ I’m looking to collaborate on any project where I can get my hands messy with data.
 - 📫 How to reach me: kchen@hsph.harvard.edu
 
 <!---
